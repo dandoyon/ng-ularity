@@ -1,4 +1,4 @@
 ng-ularity
 ==========
 
-Demonstration applications using technologies like AngularJS
+Demonstration applications using AngularJS and other sweet HTML5 technologies.
